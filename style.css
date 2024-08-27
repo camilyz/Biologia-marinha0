@@ -21,6 +21,7 @@ img.menu{
     display: inline-block;
     margin-top: 3px;
 }
+
 ul li{
     list-style: none;
     display: inline-block;
@@ -28,6 +29,7 @@ ul li{
     margin-left: 28px;
     margin-right: 30px;
 }
+
 ul li a{
     text-decoration: none;
     padding: 0 50px;
@@ -35,10 +37,12 @@ ul li a{
     color: white;
     font-size: medium;
 }
+
 .vida1{
     color: white;
     font-size: 45px
 }
+
 .vida{
     color: white;
     font-size: large;
@@ -46,20 +50,24 @@ ul li a{
 .capa{
     background-color: white;
 }
+
 iframe , p.capa {
     display: inline-block;
 }
+
 iframe.capa {
     float: right;
     height: 300px;
     margin-right: 50px;
 }
+
 p.capa {
     float: left;
     max-width: 55ch;
     text-align: justify;
     margin-left: 50px;
 }
+
 div.vida{
     margin-left: auto;
     margin-right: auto;
@@ -69,32 +77,39 @@ div.vida{
     background-color: rgba(219, 212, 180, 0.364);
     box-shadow: 4px 3px 12px rgba(10, 36, 46, 0.395);
 }
+
 p{
     max-width: 100ch;
     margin-left: auto;
     margin-right: auto;
 }
+
 .inicio{
     text-align: center;
     background-image: url(https://uploaddeimagens.com.br/images/004/173/362/original/fundososoos.png?1669149693);
 }
+
 section{
     background-color: rgba(255, 255, 255, 0.747);
 }
+
 p.paragraph{
     text-align: justify;
 }
+
 footer{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image: url(https://img.freepik.com/free-photo/white-sand-textured-background-with-copy-space_53876-106183.jpg?w=1060&t=st=1669155134~exp=1669155734~hmac=00c0588b3cb7d17d9d9eabfa447a5d76cc13a615906d2cb38c1528c2a3e84d60);
     font-size: large;
     font-weight: bold;
 }
+
 .sobre{
     max-width: 100%;
     margin-left: 60px;
     margin-right: 60px;
 }
+
 .biografia{
     max-width: 100ch;
     color: rgb(19, 11, 2);
