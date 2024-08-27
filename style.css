@@ -1,8 +1,8 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(6, 20,  10);
+    color: rgb(0, 0, 0);
     margin: 0;
-    background-color: blue;
+    background-color: rgb(6, 6, 32);
     text-align: center;
     font-size: large;
     text-decoration: none;
@@ -17,7 +17,7 @@ nav{
     background-color: rgb(6, 6, 32);
 }
 img.menu{
-    height: 10px;
+    height: 40px;
     display: inline-block;
     margin-top: 3px;
 }
@@ -44,7 +44,7 @@ ul li a{
     font-size: large;
 }
 .capa{
-    background-color: dark blue;
+    background-color: white;
 }
 iframe , p.capa {
     display: inline-block;
@@ -101,9 +101,6 @@ footer{
     font-size: large;
     margin-right: 60px;
 }
-img , p.biografia {
-    display: inline-block;
-}
 img.biografia {
     float: left;
     height: 1px
@@ -111,7 +108,7 @@ img.biografia {
 }
 p.biografia {
     float: right;
-    max-width: 350ch;
+    max-width: 120ch;
     text-align: justify;
 }
 h2.biografiah {
