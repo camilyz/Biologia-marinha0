@@ -111,12 +111,12 @@ img.biografia {
 }
 p.biografia {
     float: right;
-    max-width: 1ch;
+    max-width: 350ch;
     text-align: justify;
 }
 h2.biografiah {
     display: inline-block;
-    margin-left: 1%;
+    margin-left: 25%;
     font-size: x-large;
 }
 img.obj{
