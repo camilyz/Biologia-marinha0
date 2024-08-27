@@ -2,7 +2,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(0, 0, 0);
     margin: 0;
-    background-color: rgb(6, 6, 32);
+    background-color: blue;
     text-align: center;
     font-size: large;
     text-decoration: none;
@@ -44,7 +44,7 @@ ul li a{
     font-size: large;
 }
 .capa{
-    background-color: white;
+    background-color: dark blue;
 }
 iframe , p.capa {
     display: inline-block;
