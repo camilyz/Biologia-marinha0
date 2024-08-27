@@ -101,9 +101,12 @@ footer{
     font-size: large;
     margin-right: 60px;
 }
+img , p.biografia {
+    display: inline-block;
+}
 img.biografia {
     float: left;
-    height: 1px
+    height: 300px
     
 }
 p.biografia {
